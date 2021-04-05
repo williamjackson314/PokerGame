@@ -2,8 +2,6 @@
  * Course: CS216-00x
  * Project: Project 2
  * Purpose: the implementation of member functions for the Node class and SortedLinkedList class.
- *** DO NOT CHANGE THIS FILE ***
- *
  */
 
 #include <cstdlib>
